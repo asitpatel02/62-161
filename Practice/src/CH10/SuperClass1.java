@@ -1,4 +1,6 @@
 package CH10;
+// Code Listing 10-5 pg#660
+
 public class SuperClass1
 {
    /**

@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-10 pg#665
 /**
    This program demonstrates how a superclass
    constructor is called with the super key word.

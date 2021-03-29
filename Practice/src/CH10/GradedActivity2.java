@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-18 pg#680
 /**
    A class that holds a grade for a graded activity.
 */

@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-22 pg#688
 /**
    This class determines a passing or failing grade for
    an exam.

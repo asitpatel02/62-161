@@ -24,7 +24,7 @@ public class CharacterTest {
 		}
 
 		if (Character.isLowerCase(ch)){
-			JOptionPane.showMessageDialog(null,"That is an uppercase letter.");
+			JOptionPane.showMessageDialog(null,"That is an lowercase letter.");
 		}
 
 		if (Character.isWhitespace(ch)){

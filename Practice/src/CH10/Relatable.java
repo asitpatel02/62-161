@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-32 pg#708
 
 /**
    Relatable interface

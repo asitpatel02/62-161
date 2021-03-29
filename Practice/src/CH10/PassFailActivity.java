@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-21 pg#687
 /**
    This class holds a numeric score and determines
    whether the score is passing or failing.

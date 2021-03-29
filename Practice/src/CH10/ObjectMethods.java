@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-24 pg#693
 /**
    This program demonstrates the toString and equals
    methods that are inherited from the Object class.

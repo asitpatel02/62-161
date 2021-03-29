@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-11 pg#666
 /**
    This class holds data about a cube.
 */

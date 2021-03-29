@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-13 pg#673
 /**
    This class computes a curved grade. It extends
    the GradedActivity class.

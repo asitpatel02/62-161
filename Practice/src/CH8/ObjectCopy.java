@@ -9,10 +9,10 @@ public class ObjectCopy {
 		Stock company1 = new Stock("XYZ",9.62);
 
 		//Declare a Stock Variable
-		Stock company2;
+		Stock company2 = new Stock("XYZ",9.62);
 
 		//Make company2 reference a copy of the object referenced by company1
-		company2 = company1.copy();
+		//company2 = company1.copy();
 
 		//Display the contents of both objects
 		System.out.println("Company 1:\n" + company1);

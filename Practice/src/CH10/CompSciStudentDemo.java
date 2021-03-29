@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-28 pg#704
 /**
    This program demonstrates the CompSciStudent class.
 */

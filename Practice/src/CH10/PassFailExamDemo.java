@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-23 pg#690
 import java.util.Scanner;
 
 /**

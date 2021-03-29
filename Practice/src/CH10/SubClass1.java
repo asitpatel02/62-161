@@ -1,4 +1,5 @@
 package CH10;
+// Code Listing 10-6 pg#661
 
 
 public class SubClass1 extends SuperClass1
